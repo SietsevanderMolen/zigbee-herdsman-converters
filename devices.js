@@ -2917,7 +2917,7 @@ const devices = [
         vendor: 'Gledopto',
         description: 'Zigbee Smart WW/CW GU10',
         extend: gledopto.light,
-        supports: 'on/off, brightness, color temperature',
+        supports: 'on/off, brightness, color temperature, color',
     },
     {
         zigbeeModel: ['GL-S-007Z'],
